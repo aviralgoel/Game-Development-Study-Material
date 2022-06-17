@@ -8,3 +8,4 @@
 6. [Is CompareTag better than gameObject.tag performance wise?](https://answers.unity.com/questions/200820/is-comparetag-better-than-gameobjecttag-performanc.html)
 7. [2D World Building with the new Isometric & Hexagonal Tilemaps in Unity - Sam Dogantimur](https://www.youtube.com/watch?v=1gqCSRaSv-E)
 8. [2D Camera in Unity (Cinemachine Tutorial)](https://www.youtube.com/watch?v=2jTY11Am0Ig)
+9. [Unity's Animation System Tutorial Playlist](https://www.youtube.com/watch?v=-FhvQDqmgmU&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO)
