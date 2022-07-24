@@ -11,3 +11,7 @@ https://www.linuxtopia.org/online_books/programming_books/thinking_in_c++/Chapte
 https://manybutfinite.com/post/anatomy-of-a-program-in-memory/
 https://zengruiwang.medium.com/sliding-window-technique-360d840d5740
 https://c-faq.com/decl/spiral.anderson.html
+
+Design Patterns:
+
+https://gameprogrammingpatterns.com/singleton.html

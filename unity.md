@@ -9,3 +9,8 @@
 7. [2D World Building with the new Isometric & Hexagonal Tilemaps in Unity - Sam Dogantimur](https://www.youtube.com/watch?v=1gqCSRaSv-E)
 8. [2D Camera in Unity (Cinemachine Tutorial)](https://www.youtube.com/watch?v=2jTY11Am0Ig)
 9. [Unity Animation System Tutorial Playlist](https://www.youtube.com/watch?v=-FhvQDqmgmU&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO)
+
+
+
+[Blog- Performing jump function in unity- 2D]
+https://gamedevbeginner.com/how-to-jump-in-unity-with-or-without-physics/
